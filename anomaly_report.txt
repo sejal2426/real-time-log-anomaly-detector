@@ -1,0 +1,90 @@
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:50
+  File: module2.py
+  Line: 59
+  Resp Value: 52.3
+  LSTM MSE: 68545.4420
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:51
+  File: module1.py
+  Line: 60
+  Resp Value: 57.1
+  LSTM MSE: 68576.5236
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:52
+  File: module2.py
+  Line: 61
+  Resp Value: 55.3
+  LSTM MSE: 68611.4867
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:53
+  File: module1.py
+  Line: 62
+  Resp Value: 58.6
+  LSTM MSE: 68667.7390
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:54
+  File: module2.py
+  Line: 63
+  Resp Value: 51.9
+  LSTM MSE: 68682.9428
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:55
+  File: module1.py
+  Line: 64
+  Resp Value: 49.3
+  LSTM MSE: 68636.4731
+  Category: UNKNOWN ANOMALY
+  Suggested Fix: General anomaly detected.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:56
+  File: module2.py
+  Line: 65
+  Resp Value: 53.6
+  LSTM MSE: 68629.6602
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:57
+  File: module1.py
+  Line: 66
+  Resp Value: 55.8
+  LSTM MSE: 68611.5670
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:58
+  File: module2.py
+  Line: 67
+  Resp Value: 58.2
+  LSTM MSE: 68596.7043
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
+Anomaly Detected:
+  Timestamp: 2025-11-23T12:00:59
+  File: module1.py
+  Line: 68
+  Resp Value: 52.1
+  LSTM MSE: 68600.4795
+  Category: MEDIUM SPIKE
+  Suggested Fix: Check function performance or system load.
+------------------------------------------------------------
